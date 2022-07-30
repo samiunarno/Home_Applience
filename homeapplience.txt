@@ -1,0 +1,58 @@
+Introduction
+As Come Electricity we are using many electrical things Day by day Our Electricity is Upgrading then our Uses will be updated we can use maximum voltage things that after previous we cant uses as the technology upgrading than our Electricity also Upgraded.Everyone have his own uses of Electricity.I also use electricity through Lights Fans AC TV Fridge Laptop Charger Mobile Charger .In my home I am using 7 Lights of Bulb 3 Fans 1 TV 1 AC 1 Fridge Laptop, Mobile.If I calculate my monthly electricity bill is like that its equation will be
+Calculation of Electric Energy Consumption
+The following formula is used for electrical energy consumption.
+Consumed Energy = Energy Used in Watts x Time in Hours
+Where:
+•	E = Electrical Energy (Consumed in kWh)
+•	P = Power in Watts
+•	t = Time in hours per day
+Wh (Watt-hour) is a small unit, so we divide the consumed energy on 1000 to get the value of energy in kWh instead of Wh.
+The energy E in kilowatt-hours (kWh) per day is equal to the power P in watts (W) times number of usage hours per day t divided by 1000 watts per kilowatt:
+
+
+E(kWh/day) = P(W) × t(h/day) / 1000(W/kW)
+
+every appliance or electronic device adds a little something to your bill. By figuring out what the biggest energy hogs are in  home, you can adjust your usage by unplugging or simply using the device less. Every change you make should help whittle down your energy expenses.
+
+
+
+APPLIANCE TABLE
+Home Appliance	Power Watt	Connected Number	The Load Hours
+1.Bulbs	25	7	6
+2.Fan	80	3	12
+3.AC	900	1	3
+4.Fredge	250	2	24
+5.Laptop	100	1	7
+6.TV	120	1	10
+7.Oven	1000	1	5
+
+CALCULATION
+1.Bulb:
+7 * 25W = 175W*6hours = 1050wh
+2.Fan:
+3*80w = 240W*12hours = 2880wh
+3.AC:
+1*900=900W*3hours= 2700wh
+
+4.Fridge:
+2*250w=500W*24hours=12000wh
+5.Laptop:
+1*100=100W*7hours=700Wh
+6.TV:
+1*120=120W*10hours=1200Wh
+7.Oven:
+1*1000=1000W*2hours=2000wh
+
+SO Total watt hours = 22530wh
+In Month Watt hours = 22530*30days
+                                            =675900wh
+
+KWH in unit E = watt hours / 1000
+                          = 675900/1000
+                          =675.9 Unit
+Local area rate 5 TK
+Unit = 675.9 * 5 Tk
+        = 3379.5 BDT
+
+Sp the best way to compare the cost running different appliance power consummation which is measure how much cost power the use in watts So we should save our electricity For running good Inventory .
